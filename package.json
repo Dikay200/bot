@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "async": "^3.2.5",
+    "axios": "^1.6.8",
+    "chalk-animation": "^2.0.3",
+    "cluster": "^0.7.7",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "fake-useragent": "^1.0.1",
+    "gradient-string": "^2.0.2",
+    "header-generator": "^2.1.51",
+    "hex": "^0.1.0",
+    "hpack": "^1.0.0",
+    "http": "^0.0.1-security",
+    "http2": "^3.3.7",
+    "maxmind": "^4.3.19",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^22.7.1",
+    "random-referer": "^0.0.4",
+    "request": "^2.88.2",
+    "rst": "^0.0.4",
+    "socks": "^2.8.3",
+    "user-agents": "^1.1.192"
+  }
+}
